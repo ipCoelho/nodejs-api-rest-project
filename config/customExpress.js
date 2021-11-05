@@ -1,3 +1,4 @@
+// This is the main framework responsible for interacting with all the modules.
 const express = require('express')
 const consign = require('consign')
 
